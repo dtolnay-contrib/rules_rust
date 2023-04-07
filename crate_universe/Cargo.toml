@@ -12,6 +12,11 @@ authors = [
     "Andre Brisco - andre.brisco@protonmail.com",
 ]
 edition = "2021"
+categories = ["development-tools"]
+description = "A collection of tools which use Cargo to generate build targets for Bazel"
+keywords = ["bazel"]
+license = "Apache-2.0"
+repository = "https://github.com/bazelbuild/rules_rust"
 
 [features]
 cargo = []
